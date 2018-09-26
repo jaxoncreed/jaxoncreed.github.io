@@ -16,7 +16,10 @@ body {
 .ologo {
   width: 200px;
   height: 200px;
-  margin-bottom: 16px;
+  margin-left: auto;
+  margin-bottom: 90px;
+  margin-right: auto;
+  display: block;
 }
 
 h1 {
