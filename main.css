@@ -4,7 +4,7 @@ body {
 	background-color: #F1F1F1;
   margin: 0;
   padding: 32px;
-
+  font-family: 'PT Sans', sans-serif;
 }
 
 .container {
@@ -15,17 +15,16 @@ body {
 
 .ologo {
   width: 200px;
-  height: 200px;
   margin-left: auto;
   margin-bottom: 90px;
   margin-right: auto;
   display: block;
 }
 
-h1 {
+h1, h2 {
   font-family: 'PT Sans Narrow', sans-serif;
 }
 
-p {
+/* p, li {
   font-family: 'PT Sans', sans-serif;
-}
+} */
